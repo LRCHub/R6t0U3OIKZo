@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Jumper",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T12:48:06.379053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where's Me Jumper?",
+      "artist": "Sultans of Ping F.C.",
+      "has_synced": true,
+      "path": "select/01_Where's_Me_Jumper_Sultans_of_Ping_F.C..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "A. G. Cook",
+      "has_synced": true,
+      "path": "select/02_Jumper_A._G._Cook.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grenade Jumper",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/03_Grenade_Jumper_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "Third Eye Blind",
+      "has_synced": true,
+      "path": "select/04_Jumper_Third_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Busters! (Little Jumper Ver.)",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/05_Little_Busters!_(Little_Jumper_Ver.)_Rita.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Busters! -Little Jumper Ver.-",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/06_Little_Busters!_-Little_Jumper_Ver.-_Rita.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "3rd Eye Blind",
+      "has_synced": true,
+      "path": "select/07_Jumper_3rd_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "Natalie Taylor",
+      "has_synced": true,
+      "path": "select/08_Jumper_Natalie_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "Third Eye Blind",
+      "has_synced": true,
+      "path": "select/09_Jumper_Third_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "BEDlight for blueEYES",
+      "has_synced": true,
+      "path": "select/10_Jumper_BEDlight_for_blueEYES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "Bedlight for Blue Eyes",
+      "has_synced": true,
+      "path": "select/11_Jumper_Bedlight_for_Blue_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "Thrid Eye Blind",
+      "has_synced": true,
+      "path": "select/12_Jumper_Thrid_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jumper - Radio Edit",
+      "artist": "Third Eye Blind",
+      "has_synced": true,
+      "path": "select/13_Jumper_-_Radio_Edit_Third_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jumper [Radio Edit]",
+      "artist": "Third Eye Blind",
+      "has_synced": true,
+      "path": "select/14_Jumper_[Radio_Edit]_Third_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jumper - 1998 Edit",
+      "artist": "Third Eye Blind",
+      "has_synced": true,
+      "path": "select/15_Jumper_-_1998_Edit_Third_Eye_Blind.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jumper",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/16_Jumper_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jumper",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Jumper_04_Limited_Sazabys.txt"
+    }
+  ]
+}
